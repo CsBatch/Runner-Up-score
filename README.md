@@ -15,3 +15,6 @@ while(max(new_list) == Max):
     new_list.remove(Max)
 
 print("Runner Up Score", max(new_list))
+
+
+# If anyone can solve this in more effective way, then please join me :-)
